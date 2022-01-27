@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
 @import "normalize.css";
+@import "module/swiper-bundle.min.css";
 @import "default.css";
 @import "module/header.css";
-@import "module/navigation.css";
 @import "module/search.css";
+@import "module/navigation.css";
+@import "module/hero.css";
+@import "module/goods.css";
+@import "module/item.css";
+@import "module/footer.css";

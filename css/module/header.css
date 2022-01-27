@@ -31,15 +31,15 @@
 }
 
 .header__btn--cart {
-  background: url("/img/cart.svg")no-repeat center / contain;
+  background: url("../../img/cart.svg")no-repeat center / contain;
 }
 
 .header__btn--favorites {
-  background: url("/img/favorite.svg")no-repeat center / contain;
+  background: url("../../img/favorite.svg")no-repeat center / contain;
 }
 
 .header__btn--person {
-  background: url("/img/person.svg")no-repeat center / contain;
+  background: url("../../img/person.svg")no-repeat center / contain;
 }
 
 @media (max-width: 760px) {
